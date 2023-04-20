@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bashkir-Food-online-order/static/css/main.be1dcea2.css",
+    "main.js": "/Bashkir-Food-online-order/static/js/main.3435c617.js",
+    "index.html": "/Bashkir-Food-online-order/index.html",
+    "main.be1dcea2.css.map": "/Bashkir-Food-online-order/static/css/main.be1dcea2.css.map",
+    "main.3435c617.js.map": "/Bashkir-Food-online-order/static/js/main.3435c617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be1dcea2.css",
+    "static/js/main.3435c617.js"
+  ]
+}
