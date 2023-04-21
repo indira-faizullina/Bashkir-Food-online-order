@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Bashkir-Food-online-order/static/css/main.b8a5d791.css",
-    "main.js": "/Bashkir-Food-online-order/static/js/main.c116baa7.js",
+    "main.css": "/Bashkir-Food-online-order/static/css/main.e6cfbd55.css",
+    "main.js": "/Bashkir-Food-online-order/static/js/main.a3b6e435.js",
     "static/media/header-img.jpg": "/Bashkir-Food-online-order/static/media/header-img.e5882483a0af9e3a7f2d.jpg",
     "index.html": "/Bashkir-Food-online-order/index.html",
-    "main.b8a5d791.css.map": "/Bashkir-Food-online-order/static/css/main.b8a5d791.css.map",
-    "main.c116baa7.js.map": "/Bashkir-Food-online-order/static/js/main.c116baa7.js.map"
+    "main.e6cfbd55.css.map": "/Bashkir-Food-online-order/static/css/main.e6cfbd55.css.map",
+    "main.a3b6e435.js.map": "/Bashkir-Food-online-order/static/js/main.a3b6e435.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8a5d791.css",
-    "static/js/main.c116baa7.js"
+    "static/css/main.e6cfbd55.css",
+    "static/js/main.a3b6e435.js"
   ]
 }
